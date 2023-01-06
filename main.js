@@ -1,2 +1,3 @@
-let i = 54
-console.log(i)
+const array1 = ['a', 'b', 'c'];
+
+array1.forEach(element => console.log(element));
